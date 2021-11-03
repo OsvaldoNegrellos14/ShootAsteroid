@@ -1,2 +1,2 @@
 # shootasteroid
-Juego de dispara asteroides
+Juego de disparos a asteroides
